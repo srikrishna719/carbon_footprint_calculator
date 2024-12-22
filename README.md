@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 
-EmissoNavi is a Python-based application that leverages machine learning and historical data to calculate, visualize, and reduce carbon emissions in transportation and supply chains. By providing actionable insights and user-friendly visualizations, it empowers individuals and businesses to make sustainable decisions and minimize their environmental impact.
+A Python-based application that leverages machine learning and historical data to calculate, visualize, and reduce carbon emissions in transportation and supply chains. By providing actionable insights and user-friendly visualizations, it empowers individuals and businesses to make sustainable decisions and minimize their environmental impact.
 
 ---
 
